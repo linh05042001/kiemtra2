@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mHome"
+        android:title="HOME NAY"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:id="@+id/mHistory"
+        android:title="Lich su"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:id="@+id/mSearch"
+        android:title="Tim kiem"
+        android:icon="@drawable/ic_launcher_background"
+        />
+</menu>
